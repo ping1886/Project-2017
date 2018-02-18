@@ -1,6 +1,6 @@
 #Python project ideas
 #GAMES
-######
+#####
 # Battleship
 # Tetris
 # Interactive Text-Based game
